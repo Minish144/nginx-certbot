@@ -11,12 +11,12 @@ application.
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/wmnnd/nginx-certbot.git .`
+1. Clone this repository: `git clone https://github.com/Minish144/nginx-certbot.git .`
 
 2. Modify configuration:
 
 - Add domains and email addresses to init-letsencrypt.sh
-- Replace all occurrences of example.org with primary domain (the first one you added to init-letsencrypt.sh) in data/nginx/app.conf
+- Replace all occurrences of example.com with primary domain (the first one you added to init-letsencrypt.sh) in data/nginx/app.conf
 
 3.  Run the init script:
 
